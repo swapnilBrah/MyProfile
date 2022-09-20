@@ -1,0 +1,15 @@
+<DOCKTYPE>html
+<html> 
+
+<head>
+    <title> Info Page </title>
+    <body>
+        <h2> Personal </h2>
+        <ul>
+            <li> First Name : Swapnil  </li>
+            <li> Second Name : Khushalrao  </li>
+            <li> Last Name : Brahmanwade  </li>
+            <li> Contact No.  </li>
+                <ol> 9766428754 </ol>
+            <li> Email Id  </li>
+                <ol>swapnilbrahmanwade@gmail.com</ol>
